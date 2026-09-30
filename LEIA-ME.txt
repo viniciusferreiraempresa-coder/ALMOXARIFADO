@@ -1,0 +1,9 @@
+CONTROLE DO ALMOXARIFADO - versão inicial
+
+1. Publique estes arquivos juntos em uma hospedagem HTTPS.
+2. Abra o endereço no celular e adicione à tela inicial.
+3. Os registros ficam SOMENTE no navegador/aparelho nesta versão.
+4. Use Exportar CSV para abrir os dados no Excel.
+5. Fotos não entram no CSV; elas ficam no histórico local.
+
+IMPORTANTE: não use esta versão como sistema corporativo definitivo. Para sincronizar vários celulares e fazer backup, conecte-a depois a um banco autorizado pela TI da empresa.
